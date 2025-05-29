@@ -4,9 +4,11 @@
 </h1>
 
 <!-- Spinning Combined Logo -->
+<!-- DevOps Banner -->
 <p align="center">
-  <img src="https://www.freepik.com/free-vector/flat-design-devops-illustration_11644180.htm" width="100%" alt="DevOps Tools" />
+  <img src="https://raw.githubusercontent.com/karthickmurugesang/devops-banner/main/devops-banner.png" width="100%" alt="DevOps Tools Banner" />
 </p>
+
 
 
 ---
