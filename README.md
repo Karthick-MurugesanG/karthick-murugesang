@@ -1,12 +1,12 @@
 <!-- Centered Heading with Typewriter Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3000&color=03FF41&center=true&Center=true&lines=🚀+Hey+There!+I'm+Karthick+Murugesan+G+🚀;DevOps+Engineer;+Automating+Deployment+Excellence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&color=03FF41&center=true&Center=true&lines=🚀+Hey+There!+I'm+Karthick+Murugesan+G+🚀;DevOps+Engineer;+Automating+Deployment+Excellence" />
 </h1>
 
 <!-- Spinning Combined Logo -->
 <!-- DevOps Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karthickmurugesang/devops-banner/main/devops-banner.png" width="100%" alt="DevOps Tools Banner" />
+  <img src="https://github.com/Karthick-MurugesanG/banner/blob/main/devopstool.png" width="100%" alt="DevOps Tools Banner" />
 </p>
 
 
@@ -19,9 +19,8 @@
 ### 💼 What I Do:
 - 🚀 CI/CD automation
 - ☁️ Cloud infrastructure (AWS, Azure, GCP)
-- 🐳 Containerization & Orchestration (Docker, Kubernetes, Helm)
-- 📦 Infrastructure as Code (Terraform, Ansible)
-- 📊 Monitoring & Logging (Prometheus, Grafana, ELK)
+- 🐳 Containerization & Orchestration (Docker, Kubernetes )
+- 📊 Monitoring & Logging (Prometheus, Grafana )
 
 ---
 
@@ -30,29 +29,21 @@
 | Category | Tools |
 |---|---|
 | ☁ **Cloud** | AWS · Azure · GCP |
-| 🏗 **IaC** | Terraform · Ansible · Pulumi |
-| 🐳 **Containers** | Docker · Kubernetes · Helm |
-| 🔄 **CI/CD** | GitHub Actions · GitLab CI · Jenkins |
-| 📊 **Monitoring** | Prometheus · Grafana · ELK Stack |
-| 🔐 **Security** | HashiCorp Vault · AWS IAM |
+| 🐳 **Containers** | Docker · Kubernetes |
+| 🔄 **CI/CD** | GitHub Actions . Jenkins |
+| 📊 **Monitoring** | Prometheus · Grafana |
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🚀 Auto-Scaling Kubernetes Cluster
-**Tech**: Kubernetes · Helm · AWS EKS · Terraform  
+**Tech**: Kubernetes · Docker  
 **Outcome**: Enabled dynamic load-based scaling with reduced downtime.  
 **Repo**: [View Project](https://github.com/Karthick-MurugesanG/evershop)
 
 ---
 
-### ⚙️ Ansible Automation for Cloud Deployments
-**Tech**: Ansible · AWS · CloudFormation  
-**Outcome**: Cut provisioning time by 40% with repeatable playbooks.  
-**Repo**: [View Project](https://github.com/Karthick-MurugesanG/evershop)
-
----
 
 ## 📊 GitHub Stats
 
