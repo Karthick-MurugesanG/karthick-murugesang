@@ -1,6 +1,6 @@
 <!-- Centered Heading with Typewriter Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&color=00FF99&center=true&vCenter=true&lines=🚀+Hey+There!+I'm+Karthick+Murugesan+G+🚀;DevOps+Engineer;+Automating+Deployment+Excellence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3000&color=03FF41&center=true&Center=true&lines=🚀+Hey+There!+I'm+Karthick+Murugesan+G+🚀;DevOps+Engineer;+Automating+Deployment+Excellence" />
 </h1>
 
 <!-- Spinning Combined Logo -->
@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="Karthick's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthick-murugesang&show_icons=true&theme=tokyonight" alt="Karthick's GitHub Stats" />
 </p>
 
 ---
