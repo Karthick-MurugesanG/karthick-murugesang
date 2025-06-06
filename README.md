@@ -39,7 +39,7 @@
 
 ### 🚀 Auto-Scaling Kubernetes Cluster
 **Tech**: Kubernetes · Docker  
-**Outcome**: Enabled dynamic load-based scaling with reduced downtime.  
+**Outcome**: Automated deployment using Jenkins to build containers with Docker, followed by deployment to a Kubernetes cluster.  
 **Repo**: [View Project](https://github.com/Karthick-MurugesanG/evershop)
 
 ---
