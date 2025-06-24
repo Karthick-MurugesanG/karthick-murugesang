@@ -58,7 +58,7 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karthick-murugesan-g
+  <a href="https://www.linkedin.com/in/g-karthick-murugesan
 ">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
