@@ -10,7 +10,6 @@
 </p>
 
 
-
 ---
 ## 🔥 About Me
 👋 Hello! I'm **Karthick Murugesan G**, a passionate **DevOps Engineer** focused on streamlining software delivery and infrastructure with robust automation. I enjoy building resilient cloud-native systems that scale and self-heal.
